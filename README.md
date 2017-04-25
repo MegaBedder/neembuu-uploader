@@ -3,7 +3,7 @@ Neembuu Uploader _*v3.5.0*_ is a free and open-source Java application that uplo
 
 * Official Website: http://neembuu.com/uploader/
 * Official Forum: http://www.neembuu.com/uploader/forum/
-* List of supported file-hosting websites: http://www.neembuu.com/uploader/forum/supported_hosts/
+* List of supported file-hosting websites: https://web-beta.archive.org/web/20151108060023/http://www.neembuu.com:80/uploader/forum/supported_hosts/
 
 # Download:
 
